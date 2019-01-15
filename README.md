@@ -42,3 +42,5 @@ slides [1](http://events17.linuxfoundation.org/sites/events/files/slides/Groking
 - spidev device in device tree
 - menuconfig enable spidev
 
+# quantum computers
+[1](https://online.stanford.edu/courses/soe-yeeqmse01-quantum-mechanics-scientists-and-engineers)[2](https://physics.stackexchange.com/questions/298518/how-are-quantum-qubits-implemented)
